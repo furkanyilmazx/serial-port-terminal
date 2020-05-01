@@ -1,0 +1,14 @@
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Release\FYxTerm.exe
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Release\FYxTerm.pdb
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\teminal_fyx.Form1.resources
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\teminal_fyx.Properties.Resources.resources
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\teminal_fyx.csproj.GenerateResource.Cache
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\FYxTerm.exe
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\FYxTerm.pdb
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\teminal_fyx.csprojResolveAssemblyReference.cache
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Release\FYxTerm.exe.config
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Release\FYxTerm.exe.manifest
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Release\FYxTerm.application
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\FYxTerm.TrustInfo.xml
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\FYxTerm.exe.manifest
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Release\FYxTerm.application

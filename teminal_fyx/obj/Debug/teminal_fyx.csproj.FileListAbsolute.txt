@@ -1,0 +1,8 @@
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\teminal_fyx.csprojResolveAssemblyReference.cache
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\teminal_fyx.csproj.GenerateResource.Cache
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\teminal_fyx.Form1.resources
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Debug\FYxTerm.exe
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\bin\Debug\FYxTerm.pdb
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\teminal_fyx.Properties.Resources.resources
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\FYxTerm.exe
+D:\Development\Projects\DESKTOP\C#\teminal_fyx\teminal_fyx\obj\Debug\FYxTerm.pdb
